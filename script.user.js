@@ -1,8 +1,10 @@
 // ==UserScript==
-// @name         Loc Google
+// @name         Google Location
+// @name:fr      Localisation Google
 // @namespace    http://tampermonkey.net/
 // @version      1.5
-// @description  Retire les informations de localisation et de ville sur Google
+// @description  Removes location and city information displayed on Google
+// @description:fr Supprime les informations de localisation et de ville affichées sur Google
 // @author       Lumix
 // @match        *://www.google.com/*
 // @match        *://www.google.fr/*
