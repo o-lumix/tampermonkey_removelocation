@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Loc Google
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @description  Retire les informations de localisation et de ville sur Google
 // @author       Lumix
 // @match        *://www.google.com/*
