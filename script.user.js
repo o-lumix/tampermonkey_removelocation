@@ -7,6 +7,8 @@
 // @match        *://www.google.com/*
 // @match        *://www.google.fr/*
 // @grant        none
+// @downloadURL https://update.greasyfork.org/scripts/516435/Loc%20Google.user.js
+// @updateURL https://update.greasyfork.org/scripts/516435/Loc%20Google.meta.js
 // ==/UserScript==
 
 (function() {
