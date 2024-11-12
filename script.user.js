@@ -2,7 +2,7 @@
 // @name         Google Location
 // @name:fr      Localisation Google
 // @namespace    https://lumixsf.site
-// @version      1.5
+// @version      1.6
 // @description  Removes location and city information displayed on Google
 // @description:fr Supprime les informations de localisation et de ville affichées sur Google
 // @author       Lumix
