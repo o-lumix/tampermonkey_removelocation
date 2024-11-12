@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Location
 // @name:fr      Localisation Google
-// @namespace    http://tampermonkey.net/
+// @namespace    https://lumixsf.site
 // @version      1.5
 // @description  Removes location and city information displayed on Google
 // @description:fr Supprime les informations de localisation et de ville affichées sur Google
